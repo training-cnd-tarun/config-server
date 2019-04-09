@@ -1,0 +1,3 @@
+app:
+  service:
+    name: The service name is Student Service for qa
